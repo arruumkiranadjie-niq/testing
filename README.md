@@ -42,7 +42,7 @@ TIMi Server Dekstop
 │       ├── respondent_base                                      ← Respondent Base to Support anatella Working Files
 │            └── respondent_base.gel_anatella
 │       ├── support
-│            ├── 1. Config                                       ← Configuration Settings for Global Parameters in anatella Working Files
+│            ├── 1. Config                                       ← Configuration Settings for Global Parameters
 │                └── config.cfg
 │            ├── 2. Source Data CSV & JSON                       ← Source Data CSV & JSON
 │                ├── Data Regular CSV (Jun'18 - {latest_month})
@@ -62,7 +62,7 @@ TIMi Server Dekstop
 │            ├── 4. Rules and Variable Tree                       ← Rules and Variable Tree Specifications
 │                ├── Rules_TIMi.xlsx
 │                ├── 2026-09 Variable Tree TIMi - SEP'26.xlsx
-│       ├── User1                                                 ← User Profile Directory and Workspace (Only Related User Can Access)
+│       ├── User1                                                 ← User Directory and Workspace (Only Related User Can Access)
 │       ├── User2                                                 ←                                 ""
 │       ├── ...                                                   ←                                 ""
 │       └── UserN                                                 ←                                 ""
