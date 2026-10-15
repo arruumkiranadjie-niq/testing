@@ -26,11 +26,9 @@ TIMi Server Dekstop
 │   ├── source_ref                                                ← Source Reference to Create Anatella Files
 │       ├── _fact_data                                            ← Raw Data (Data Only Included Value & Weight)
 │            ├── BUMO.gel_anatella
-│            ├── Total_Awareness.gel_anatella
 │            └── ...
 │       ├── _variable_data                                        ← Processed Data (Data Included Base, Numerator & Denominator)
 │            ├── BUMO.gel_anatella
-│            ├── Total_Awareness.gel_anatella
 │            └── ...
 │       ├── all_data                                              ← All Raw Data Compiled in One gel_anatella file
 │            └── all_data.gel_anatella
@@ -63,7 +61,6 @@ TIMi Server Dekstop
 │                ├── Rules_TIMi.xlsx
 │                ├── 2026-09 Variable Tree TIMi - SEP'26.xlsx
 │       ├── User1                                                 ← User Directory and Workspace (Only Related User Can Access)
-│       ├── User2                                                 ←                                 ""
 │       ├── ...                                                   ←                                 ""
 │       └── UserN                                                 ←                                 ""
 ```
