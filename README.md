@@ -1,14 +1,21 @@
 # testing
 
 ```
-OR-Project_SupplyChainLogisticBrunel
+TIMi Server Dekstop
 │
-├── README.md                                     ← README
+├── Local Disk (C:)                                     ← Personal Storage (Only Related User Can Access)
+│   ├── Users
+│       ├── User30                                     ← User Profile Directory and Workspace
+│           ├── Desktop
+│               ├── GitHub Desktop                     ← Access GitHub Desktop for Data
+│           ├── Documents                              ← Stores Personal Work Files (.anatella, .gel_anatella, .cgel_anatella, .xlsx, .docx, .pdf, ...)
+│           ├── Downloads
+                              
 │
-├── data                                          ← Datasets Used For This Project
+├── Data1 (D:)                                          ← Datasets Used For This Project
 │   └── supply_chain.xlsx
 │
-├── results                                       ← All Results and Analysis CSV Files
+├── Data2 (E:)                                       ← All Results and Analysis CSV Files
 │   ├── carrier_summary.csv
 │   ├── dual_price.csv
 │   ├── mode_summary.csv
