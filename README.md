@@ -28,7 +28,7 @@ TIMi Server Dekstop
 │            ├── BUMO.gel_anatella
 │            ├── Total_Awareness.gel_anatella
 │            └── ...
-│       ├── _variable_data                                        ← Processed Data (Data Included Base, Numerator, Denominator of The Data)
+│       ├── _variable_data                                        ← Processed Data (Data Included Base, Numerator & Denominator)
 │            ├── BUMO.gel_anatella
 │            ├── Total_Awareness.gel_anatella
 │            └── ...
