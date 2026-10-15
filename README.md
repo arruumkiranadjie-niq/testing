@@ -24,11 +24,11 @@ TIMi Server Dekstop
 │                ├── variable_SA_MA.anatella
 │                ├── variable_NUMERIC.anatella
 │   ├── source_ref                                                ← Source Reference to Create Anatella Files
-│       ├── _fact_data                                            ← Raw Data in gel_anatella (Data Only Included Value and Weight)
+│       ├── _fact_data                                            ← Raw Data (Data Only Included Value & Weight)
 │            ├── BUMO.gel_anatella
 │            ├── Total_Awareness.gel_anatella
 │            └── ...
-│       ├── _variable_data                                        ← Processed Data in gel_anatella (Data Included Base, Numerator, Denominator of The Data)
+│       ├── _variable_data                                        ← Processed Data (Data Included Base, Numerator, Denominator of The Data)
 │            ├── BUMO.gel_anatella
 │            ├── Total_Awareness.gel_anatella
 │            └── ...
