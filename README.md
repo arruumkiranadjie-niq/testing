@@ -60,7 +60,7 @@ TIMi Server Dekstop
 │            ├── 4. Rules and Variable Tree                       ← Rules and Variable Tree Specifications
 │                ├── Rules_TIMi.xlsx
 │                ├── 2026-09 Variable Tree TIMi - SEP'26.xlsx
-│       ├── User1                                                 ← User Directory and Workspace (Only Related User Can Access)
-│       ├── ...                                                   ←                                 ""
-│       └── UserN                                                 ←                                 ""
+│   ├── User1                                                     ← User Directory and Workspace (Only Related User Can Access)
+│   ├── ...                                                       ←                                 ""
+│   └── UserN                                                     ←                                 ""
 ```
